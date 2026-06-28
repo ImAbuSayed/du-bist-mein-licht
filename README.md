@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/du-bist-mein-licht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Du bist mein Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-licht/) |
+| **Get License** | [License this song: Du bist mein Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-licht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86a943435df0fa334a6b3e28b72845838fd7344e4f7dc2fb4600382319180d04` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

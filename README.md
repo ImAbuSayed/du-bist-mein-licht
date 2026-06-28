@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/du-bist-mein-licht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Du bist mein Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-licht/) |
+| **Get License** | [Obtain a Music License for Du bist mein Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-licht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, du strahlst heller als die Neonlichter der Stadt.. yeah..
+> Dein Blick trifft mich wie ein Drop, der keine Regeln mehr hat.. uh..
+> Du bist mein Licht, Babe, der Vibe, der mich wachhält.. wachhält..
+> Wir zwei im Ghost, Highspeed, am Ende der Welt.. let's go..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
